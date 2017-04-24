@@ -1,0 +1,26 @@
+{
+  "name": "image-search-ms",
+  "version": "1.0.0",
+  "description": "Image Search Abstraction Layer for Free Code Camp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzub/image-search-ms.git"
+  },
+  "keywords": [
+    "image",
+    "search",
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "Yuriy Zubaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzub/image-search-ms/issues"
+  },
+  "homepage": "https://github.com/yuzub/image-search-ms#readme"
+}
